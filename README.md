@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+<!-- 
+
+// si hay error de conexion --> sudo service docker start -->
