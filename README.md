@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -25,3 +26,7 @@ Things you may want to cover:
 <!-- 
 
 // si hay error de conexion --> sudo service docker start -->
+=======
+# CRUD-Ruby-on-Rails
+Simple CRUD with Ruby on Rails, azzure &amp;  docker
+>>>>>>> 36bfe73a5783dfb18b425f061aaf45932caf8336
